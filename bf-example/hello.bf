@@ -1,8 +1,8 @@
-++++++++++		Hello world example, copied from wikipedia
+++++++++++		Hello world example copied from wikipedia
 [                   Initial loop
    >+++++++>++++++++++>+++>+<<<<-
 ]
-                    at the end of the loop, tab contains:
+                    at the end of the loop tab contains:
 >++.                      'H'    = 72  (70  plus 2)
 >+.                       'e'    = 101 (100 plus 1)
 +++++++.                  'l'    = 108 (101 plus 7)
